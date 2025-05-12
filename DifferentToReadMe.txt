@@ -3,3 +3,4 @@ Now writing a different line because the first one has been committed, but I nee
 One more change to test what git tells me about the push.
 Testing if I have been committing wrong.
 Testing to see if git bash works on my pc.
+Testing to see what the name is if I push
