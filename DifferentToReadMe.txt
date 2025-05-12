@@ -5,3 +5,4 @@ Testing if I have been committing wrong.
 Testing to see if git bash works on my pc.
 Testing to see what the name is if I push.
 New change.
+Reinstalled Git.
